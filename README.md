@@ -22,3 +22,9 @@ This project explores Netflix's library using SQL to uncover insights about cont
 - TV shows are becoming more common since 2015.
 
 ## 📂 Project Structure
+
+sql-data-project/
+├── data/
+├── queries/
+├── visuals/
+└── README.md
